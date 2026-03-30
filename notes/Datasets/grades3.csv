@@ -1,0 +1,21 @@
+This file contains the grade breakdown for MATH 2085 in the Fall 2012 Semester.
+* NAM - Name
+* ATT - Attendance: Fail (<60% attendance), Adequate (>=60% but <80%), Good (>=80% but <95%), Perfect (>95%)
+* HOM - Homework: 0%-100%
+* PRP - Project Proposal: Pass/Fail
+* PRC - Project Checkup: 0%-100%
+* PRF - Final Project: 0%-100%
+* MID - Midterm Exam: 0%-100%
+* FIN - Final Exam: 0%-100%
+
+NAM, ATT, HOM, PRP, PRC, PRF, MID, FIN
+James Abbott, Good, 87, Pass, 100, 93, 76, 85
+Jane Baker, Good, 92, Pass, 95, 97, 84, 82
+George Costello, Adequate, 83, Pass, 100, 91, missing, 88
+Susan Davis, Good, 79, Pass, 100, 86, 81, 90
+Jared Erikson, Perfect, 96, Pass, 85, 90, 87, 79
+Samantha Fisher, Fail, 54, Fail, 60, 40, 62, missing
+Isaac Gibson, Adequate, 76, Pass, 95, 89, missing, 72
+Emily Harrison, Good, 88, Pass, 100, 100, 93, 81
+Peter Ingram, Adequate, 90, Fail, 100, 94, 79, 80
+Michael Jackson, Perfect, 89, Pass, 95, 99, 84, 87

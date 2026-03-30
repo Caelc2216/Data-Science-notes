@@ -1,0 +1,83 @@
+Year,Type of Crime,Number of Crimes
+2000,Assault,523
+2000,Burglary,349
+2000,Robbery,128
+2000,Vehicle Theft,223
+2001,Assault,610
+2001,Burglary,287
+2001,Robbery,105
+2001,Vehicle Theft,195
+2002,Assault,724
+2002,Burglary,365
+2002,Robbery,142
+2002,Vehicle Theft,217
+2003,Assault,819
+2003,Burglary,429
+2003,Robbery,178
+2003,Vehicle Theft,308
+2004,Assault,897
+2004,Burglary,516
+2004,Robbery,221
+2004,Vehicle Theft,393
+2005,Assault,1054
+2005,Burglary,643
+2005,Robbery,283
+2005,Vehicle Theft,472
+2006,Assault,1215
+2006,Burglary,752
+2006,Robbery,329
+2006,Vehicle Theft,529
+2007,Assault,1382
+2007,Burglary,864
+2007,Robbery,408
+2007,Vehicle Theft,648
+2008,Assault,1567
+2008,Burglary,1012
+2008,Robbery,480
+2008,Vehicle Theft,742
+2009,Assault,1769
+2009,Burglary,1194
+2009,Robbery,597
+2009,Vehicle Theft,869
+2010,Assault,1946
+2010,Burglary,1421
+2010,Robbery,718
+2010,Vehicle Theft,1024
+2011,Assault,2113
+2011,Burglary,1652
+2011,Robbery,839
+2011,Vehicle Theft,1263
+2012,Assault,2339
+2012,Burglary,1981
+2012,Robbery,1024
+2012,Vehicle Theft,1498
+2013,Assault,2562
+2013,Burglary,2357
+2013,Robbery,1316
+2013,Vehicle Theft,1865
+2014,Assault,2798
+2014,Burglary,2732
+2014,Robbery,1582
+2014,Vehicle Theft,2187
+2015,Assault,3025
+2015,Burglary,3191
+2015,Robbery,1903
+2015,Vehicle Theft,2578
+2016,Assault,3251
+2016,Burglary,3669
+2016,Robbery,2225
+2016,Vehicle Theft,2957
+2017,Assault,3484
+2017,Burglary,4223
+2017,Robbery,2601
+2017,Vehicle Theft,3304
+2018,Assault,3719
+2018,Burglary,4801
+2018,Robbery,3104
+2018,Vehicle Theft,3776
+2019,Assault,3962
+2019,Burglary,5498
+2019,Robbery,3583
+2019,Vehicle Theft,4359
+2020,Assault,4205
+2020,Burglary,6203
